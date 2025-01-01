@@ -1,0 +1,2 @@
+# COBOL Array Index Out of Bounds Bug
+This repository demonstrates a common bug in COBOL programs: an array index out of bounds error.  The provided COBOL code attempts to manipulate an array without proper bounds checking, leading to unpredictable behavior or program crashes. The solution provides a corrected version with robust error handling.
